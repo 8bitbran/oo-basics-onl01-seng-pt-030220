@@ -1,4 +1,4 @@
-# Make your shoe class here!https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/object-lifecycle/oo-basics#
+# Make your shoe class here!
 class Shoe 
   
   attr_accessor :color, :size, :material, :condition
